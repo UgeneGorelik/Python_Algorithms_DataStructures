@@ -24,3 +24,8 @@ find all permutation of a string using backtracking recursive function,
 check if string is palindrome recursive,
 remove duplicates from string using set,
 remove char from string
+_________________________________________
+
+
+Linked_List_Algorithms.py:
+implementation of linked list node and linked list itself
