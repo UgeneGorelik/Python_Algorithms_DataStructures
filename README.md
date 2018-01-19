@@ -29,3 +29,9 @@ _________________________________________
 
 Linked_List_Algorithms.py:
 implementation of linked list node and linked list itself
+
+MooresVoting.py:
+find the element that its count is more or equal to the half of the array
+
+Kadane.py:
+find biggest slice
