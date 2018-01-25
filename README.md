@@ -35,3 +35,9 @@ find the element that its count is more or equal to the half of the array
 
 Kadane.py:
 find biggest slice
+
+Caterpillar.py:
+Caterpillar algorithm to find if the string contains sum
+
+GreedyCoins.py:
+Greedy algorithm to find  sum of biggest coins creating sum
